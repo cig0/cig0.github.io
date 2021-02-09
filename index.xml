@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Not A Fuzzy Logic</title><link>https://cig0.github.io/</link><description>Recent content on Not A Fuzzy Logic</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 30 Dec 2020 23:58:46 -0300</lastBuildDate><atom:link href="https://cig0.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>First_post</title><link>https://cig0.github.io/post/first_post/</link><pubDate>Wed, 30 Dec 2020 23:58:46 -0300</pubDate><guid>https://cig0.github.io/post/first_post/</guid><description>The summary goes here</description></item><item><title>README</title><link>https://cig0.github.io/readme/</link><pubDate>Wed, 30 Dec 2020 23:56:24 -0300</pubDate><guid>https://cig0.github.io/readme/</guid><description>Some may call this junk. Me, I call them nice hacks.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Not A Fuzzy Logic</title>
+    <link>https://cig0.github.io/</link>
+    <description>Recent content on Not A Fuzzy Logic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Dec 2020 23:58:46 -0300</lastBuildDate><atom:link href="https://cig0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>https://cig0.github.io/post/first_post/</link>
+      <pubDate>Wed, 30 Dec 2020 23:58:46 -0300</pubDate>
+      
+      <guid>https://cig0.github.io/post/first_post/</guid>
+      <description>The summary goes here</description>
+    </item>
+    
+    <item>
+      <title>README</title>
+      <link>https://cig0.github.io/readme/</link>
+      <pubDate>Wed, 30 Dec 2020 23:56:24 -0300</pubDate>
+      
+      <guid>https://cig0.github.io/readme/</guid>
+      <description>Some may call this junk. Me, I call them nice hacks.</description>
+    </item>
+    
+  </channel>
+</rss>
